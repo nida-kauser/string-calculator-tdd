@@ -20,3 +20,8 @@ def test_two_numbers():
 def test_newline_delimiter():
     calc = StringCalculator()
     assert calc.add("1\n2,3") == 6
+
+def test_different_delimiter():
+    calc = StringCalculator()
+    assert calc.add("//;\n1;2") == 3
+    assert calc.add("//#\n4#5") == 9

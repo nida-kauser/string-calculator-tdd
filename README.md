@@ -42,6 +42,9 @@ Test case 3: Handle Two Numbers
 Test case 4: Handle Newline (\n) 
 ![Description](assets/handlenewline.png)
 
+Test case 5: Handle Custom/Different delimiters
+![Description](assets/handledifferentdelimiters.png)
+
 
 
 
