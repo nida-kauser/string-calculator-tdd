@@ -3,6 +3,7 @@ class StringCalculator:
         if numbers == "": 
             return 0
 
-        return int(numbers)  # # Convert single number string to int and return 
+        num_list = numbers.split(",") # splitting the string by comma  into array  and adding the items in array.
+        return sum(map(int, num_list))
         
         

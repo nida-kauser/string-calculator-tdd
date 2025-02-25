@@ -34,3 +34,8 @@ Screenshots
 
 Test case 2: Handle Single Number
 ![Description](assets/handlesinglenumber.png)
+
+Test case 3: Handle Two Numbers
+![Description](assets/handletwonumbers.png)
+
+
