@@ -29,4 +29,8 @@ This project implements the String Calculator TDD Kata in Python, following the 
 
 Screenshots
 
+
 ![Description](assets/emptystring.png)
+
+Test case 2: Handle Single Number
+![Description](assets/handlesinglenumber.png)
