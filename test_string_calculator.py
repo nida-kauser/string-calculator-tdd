@@ -17,3 +17,6 @@ def test_two_numbers():
     assert calc.add("1,2") == 3
     assert calc.add("10,20") == 30
 
+def test_newline_delimiter():
+    calc = StringCalculator()
+    assert calc.add("1\n2,3") == 6

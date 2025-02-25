@@ -39,3 +39,9 @@ Test case 3: Handle Two Numbers
 ![Description](assets/handletwonumbers.png)
 
 
+Test case 4: Handle Newline (\n) 
+![Description](assets/handlenewline.png)
+
+
+
+
