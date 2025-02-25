@@ -26,3 +26,7 @@ This project implements the String Calculator TDD Kata in Python, following the 
  4. Run the tests
   pytest test_string_calculator.py
 
+
+Screenshots
+
+![Description](assets/emptystring.png)
